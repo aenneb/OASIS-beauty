@@ -23,4 +23,4 @@ For convenience, data is provided in multiple formats (.csv, .mat, and .rda) and
 6) analyze_differences_means_demographics.R - Perform correlations between mean beauty ratings given by sub-groups of participants as defined by different demographic variables.
 7) analyze_linearModel.R - Create and assess different linear models with and without interactions to account for individual beauty ratings.
 8) analyze_depression_anhedonia_quantiles.R - Perform relation between beauty and mood, anhedonia, depression in depth per beauty quantile
-9)
+9) predict_corr_per_quantile.R - Based on the model established in 8), predict ratings and then re-do the quantile-wise correlations 
