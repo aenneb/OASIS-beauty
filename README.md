@@ -11,11 +11,16 @@ For convenience, data is provided in multiple formats (.csv, .mat, and .rda) and
 4) OASISdata.mat - for convenience: MATLAB matrix containing the main study data.
 5) depthData.rda - for convenience: depth data in R format.
 6) corrData.mat - for convenience: MATLAB matrix containing the re-sorted beauty ratings in a participant x image format.
+7) means_per_subject.txt - for convenience: means per participant in .txt format for easier import
+8) means_per_image.txt - for convenience: means per image in .txt format for easier import
 
 ### Analysis scripts
-1) analyze_means_per_image.r - Perform all analyses on the distribution of beauty means, SDs per image and their relation to valence and arousal ratings
+1) analyze_means_per_image.R - Perform all analyses on the distribution of beauty means, SDs per image and their relation to valence and arousal ratings
 2) simulate_beautySD_distribution.m - Simulate the proposed process from which the distribution of beauty SDs per image stem.
-3) analyze_reliability.r - Perform split-half reliability analyses as in Kurdi et al. (2017)
+3) analyze_reliability.R - Perform split-half reliability analyses as in Kurdi et al. (2017)
 4) repeat_analyses_Wallisch.m - Perfom inter-subject correlations as in Wallisch & Whrithner, 2017. 
-5) alayze_shared_taste - Perform the same analyses as Vessel et al., 2018, as described by Germine et al.
-6) 
+5) analyze_shared_taste.m - Perform the same analyses as Vessel et al., 2018, as described by Germine et al.
+6) analyze_differences_means_demographics.R - Perform correlations between mean beauty ratings given by sub-groups of participants as defined by different demographic variables.
+7) analyze_linearModel.R - Create and assess different linear models with and without interactions to account for individual beauty ratings.
+8) analyze_depression_anhedonia_quantiles.R - Perform relation between beauty and mood, anhedonia, depression in depth per beauty quantile
+9)
