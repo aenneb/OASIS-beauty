@@ -1,5 +1,5 @@
 # OASIS-beauty
-Data and analyses files for Brielmann &amp; Pelli (in prep.) Beauty and pleasure: Intensity of beauty in relation to valence, arousal, depression, and anhedonia.
+Data and analyses files for Brielmann &amp; Pelli (submitted, PLOS ONE) Beauty and pleasure: Intensity of beauty in relation to valence, arousal, depression, and anhedonia.
 
 For convenience, data is provided in multiple formats (.csv, .mat, and .rda) and sorted in a way that is best suited for the corresponding software. Analyses were performed in MATLAB 2018a and R 3.4.2 "Short Summer".
 
