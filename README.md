@@ -1,5 +1,5 @@
 # OASIS-beauty
-Data and analyses files for "Intense Beauty requiers Intense Pleasure" (Brielmann &amp; Pelli; 2019).
+Data and analyses files for ["Intense Beauty requiers Intense Pleasure" (Brielmann &amp; Pelli; 2019)](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02420/full).
 
 For convenience, data is provided in multiple formats (.csv, .mat, and .rda) and sorted in a way that is best suited for the corresponding software. Analyses were performed in MATLAB 2018a and R 3.4.2 "Short Summer".
 
